@@ -2,11 +2,11 @@
 
 <!--
 **dikyayodihamzah/dikyayodihamzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working as Backend Engineer
 - 🌱 Love to learn about softwaare architecture and design pattern
 - 📫 How to reach me: dikyayodihamzah@gmail.com
--->
 
 ### Languages
 
