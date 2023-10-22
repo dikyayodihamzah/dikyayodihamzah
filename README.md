@@ -27,7 +27,7 @@
 <img loading="lazy" height="20" src="https://cdn.simpleicons.org/express/444/ccc">
 <img loading="lazy" height="20" src="https://cdn.simpleicons.org/postgresql">
 <img loading="lazy" height="20" src="https://cdn.simpleicons.org/mongodb">
-<img loading="lazy" height="20" src="https://cdn.simpleicons.org/questdb">
+<img loading="lazy" height="20" src="https://cdn.simpleicons.org/quest">
 <img loading="lazy" height="20" src="https://cdn.simpleicons.org/docker">
 <img loading="lazy" height="20" src="https://cdn.simpleicons.org/firebase">
 </div>
